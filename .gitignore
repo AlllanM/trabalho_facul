@@ -1,0 +1,21 @@
+# Build artifacts
+target/
+*.class
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# System & Temporary files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+
+# Academic generated report files (Word & PDF)
+*.docx
+*.pdf
+gerar_docx.py
